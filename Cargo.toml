@@ -10,3 +10,4 @@ edition = "2018"
 table-extract = "0.2"
 reqwest = { version = "0.10", features = ["json", "blocking"] }
 tokio = { version = "0.2.21", features = ["macros"] }
+scraper = "0.12.0"
